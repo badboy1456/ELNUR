@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Palette Mosaic', cursive
+}
+
+
+.elnur{  
+    width: 70%;
+    height: 100px;
+    background-color:red;
+    border: 6px solid rgb(41, 124, 8);
+    margin-bottom:15px ;
+}
+
+.elnur p {
+    color: darkblue;
+    margin: 0;
+    padding: 15px;
+}
+
+.akrom{
+
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+}
+.akrom p {
+    color: yellow;
+    margin-left: 30px;
+    padding: 55px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    /* text-decoration: underline ;
+    text-decoration-color: black;
+    text-shadow: 9px 3px 5px #000; */
+}
+
+.elnur{
+    box-shadow: 10px 10px 10px black;
+}
+
+.rahima{
+    width: 300px;
+    height: 150px;
+    background-color: chartreuse;
+    margin: 15px;
+}
+
+.rahima p{
+    color: black;
+    margin-left:30px  ;
+    padding: 55px;
+}
